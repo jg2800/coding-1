@@ -1,0 +1,5 @@
+Github- A wedsite to store share manage and host code and and computing programs.
+Responsitory- A digtal space for storing files and folders specifically code
+Code enviorment- A digtal space for building programs using code
+Computting- A digtal machine that runs code programs
+Pythoon A prgramming lanauge uses to build a variety of software programs such as apps and Ai tools
