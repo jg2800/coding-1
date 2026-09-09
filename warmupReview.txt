@@ -6,4 +6,4 @@
 
 4. A variable is a container that sources data.
 
-5. One variable naming rule is it must starts with a letter not numer
+5. One variable naming rule is it must starts with a letter not number
