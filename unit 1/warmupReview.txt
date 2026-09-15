@@ -2,8 +2,8 @@
 
 2. A code repository is a digital space for storing files and folders specefically for codes.
 
-3. A computer keybored is a output because you didnt send it out yet.
+3. A computer keybored is a input because its sending a ditial code to the computer to show what you are typing.
 
 4. A variable is a container that sources data.
 
-5. One variable naming rule is it must starts with a letter not number
+5. One variable naming rule is it must starts with a letter not number `
