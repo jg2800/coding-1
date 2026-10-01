@@ -11,3 +11,27 @@ num1= int(input)
 num2= int(input ())
 print(num1 + num2)
 print("program has ended .")
+
+  # calculate_add()
+
+  # make a function for subtraction multiplicates and division
+  
+  # Function for subtraction
+def calculate_subtract():
+    num1 = int(input("Enter the first number: "))
+    num2 = int(input("Enter the second number: "))
+    print("Answer:", num1 - num2)
+
+
+# Function for multiplication
+def calculate_multiply():
+    num1 = int(input("Enter the first number: "))
+    num2 = int(input("Enter the second number: "))
+    print("Answer:", num1 * num2)
+
+
+# Function for division
+def calculate_divide():
+    num1 = int(input("Enter the first number: "))
+    num2 = int(input("Enter the second number: "))
+    print("Answer:", num1 / num2)
