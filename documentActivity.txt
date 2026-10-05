@@ -1,0 +1,8 @@
+1.In you words , describe what documentation is .
+Documentation is the written information that explains how something works, how to use it, or how to complete a task. It can include instructions, guidelines, descriptions, procedures, and important details that help people understand or use something correctly.
+
+2.Good documentation helps everyone on the development team understand their roles and how different parts of the game work.
+
+3.  is written for the people working on the game, such as developers, designers, and testers. It explains things like the game's code, systems, and development processes.
+
+4. No, you don’t necessarily need to know how to code to read code documentation. However, having some coding knowledge can make it easier to understand technical terms and how the code works.
