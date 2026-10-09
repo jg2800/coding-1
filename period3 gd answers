@@ -1,0 +1,16 @@
+Programmer: Game mechanics and rules so they know how to code the game.
+
+Concept artist: Character designs, environments, and art style so they can create visuals that fit the game.
+
+Publisher: Budget, target audience, and market potential to decide if the game is worth investing in.
+
+  2. What are two differences between a GDD and code documentation?
+A GDD explains how the game should look and play, while code documentation explains how the code works.
+
+A GDD is for the whole development team, while code documentation is mainly for programmers.
+
+3. Why is a GDD a “living document”?
+A GDD changes as the game develops and new ideas come up. If the team never updates it, they might waste time on outdated ideas, struggle to fix problems, and spend more money than planned.
+
+4. How does a well-structured GDD help prevent feature creep?
+A GDD keeps the team focused on the game's main goals and features. It helps them decide which new ideas are worth adding and which should be left out, saving time and money.
