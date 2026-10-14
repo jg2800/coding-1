@@ -87,5 +87,8 @@ if bill_amount ==1:
          elif selection == 4
           calculate_multiply 
           calculate_divsion
-          
+
+           print("sorry something went wrong")
+           
+
         
