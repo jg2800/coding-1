@@ -90,5 +90,28 @@ if bill_amount ==1:
 
            print("sorry something went wrong")
            
+           # do now 10/15/2026
+           def movieticketprice()
+           print("Welcome to the movir theater. How old are you?")
+         
+           age = int(input))
+           if age < 7: 
+            print(" Your ticket is ")
+           
+            elif age > 8 and < 20:
+                print("Your ticket is 12.00")
+                
+                elif age > 61 
+                print("Your ticket is 12.00")
 
-        
+            Create a function that does the following. Uses an if/else block where if ther permissiontrip is true and gpa is above 90, 
+            the program should confirm they user can go on a trip. Else if the permissionslip is false and the gpa is greater than 90,
+            Print and inform the user they will have a free day.
+
+            def check_trip(permission_slip, gpa):
+    if permission_slip == True and gpa > 90:
+        print("You can go on the trip!")
+    elif permission_slip == False and gpa > 90:
+        print("You will have a free day!")
+    else:
+        print("You do not qualify for the trip or a free day.")
