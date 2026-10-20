@@ -1,5 +1,9 @@
-The type of game i am making is a football game.The game is going to be based on the nfl offense and defense of game.
-The genral action i want my players to do is tackle catch the ball and score touchdowns and stop the other team from scoring.
-What will happen is the players will either catch a pic score a touchdown or stop the other team from scoring.
-If my player fails their object they will let the other team score or they will throw a pick or drop a touchdown pass.
-1. Football bros 2. Madden 3. Retro bowl
+1. The type of game i am making is a football game.The game is going to be based on the nfl offense and defense of game.
+
+2. The genral action i want my players to do is tackle catch the ball and score touchdowns and stop the other team from scoring.
+
+3. What will happen is the players will either catch a pic score a touchdown or stop the other team from scoring.
+
+4. If my player fails their object they will let the other team score or they will throw a pick or drop a touchdown pass.
+
+5. 1. Football bros 2. Madden 3. Retro bowl
