@@ -27,3 +27,10 @@ while 2+2 == num # Condition ---> operation - must be TRUE
            print("Incorrect. Please try again...")
 
        guessingGame
+       while userGuess == correctAnswer:
+    print("Incorrect. Please try again...")
+    attempts +=1 
+    print("Guess attempts: " + str(attempts))
+    userguess = input ("please guess a number between 1 and 50.")
+
+print("Congrats! you guessed the right number!")
