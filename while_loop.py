@@ -34,3 +34,20 @@ while 2+2 == num # Condition ---> operation - must be TRUE
     userguess = input ("please guess a number between 1 and 50.")
 
 print("Congrats! you guessed the right number!")
+
+
+
+# Question 1
+# password reset function. Your function should take in a user password as an input.
+# within the function there should be a variable that contains the correct password.
+# the user should be able to attempt to enter the password 4 times. On the fourth attempt
+# of getting the password inccorect, it should print out a message telling the user that their account 
+# has been locked. If the user gets the password correct it should print out a message telling them
+# they can access their account.
+
+
+# function need to make a function 
+# input we need to take in a user input which will be the password
+# varible we need a varbile to store the correct password 
+# print we will print out different msgs, if they get it right 
+# attempt  they get 4 attempts
